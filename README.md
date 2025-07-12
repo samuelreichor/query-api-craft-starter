@@ -18,6 +18,8 @@ It should help to get you started faster with headless development.
 
 ## Setup
 
+Paste this command in your terminal and press enter. This should set everything up for you.
+
 ```bash
 ./scripts/setup.sh
 ```
