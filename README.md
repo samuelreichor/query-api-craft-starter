@@ -11,6 +11,13 @@ It should help to get you started faster with headless development.
 ✅ Home and News Section with demo content preconfigured <br>
 ✅ Great Cats all over the place
 
+## Available Examples
+
+You can find frontend examples in the branches listed below. The code is located in the `./frontend` folder.
+
+- `examples/react-vite`: React JS vite example using the `@query-api/react` SDK.
+- `examples/next`: Next JS example using the `@query-api/next` SDK.
+
 ## Requirements
 
 - DDEV installed locally
@@ -41,11 +48,11 @@ demo project is publicly available and not save at all.
 
 ## Further Resources
 
-- [Craft Query API](https://samuelreichor.at/libraries/craft-query-api): The Craft CMS Plugin that powers this great stuff.
-- [Get Started with Nuxt SDK](https://samuelreichor.at/libraries/nuxt-craftcms): Connect this Backend with your Nuxt Frontend.
-- [Get Started with Vue SDK](https://samuelreichor.at/libraries/vue-craftcms): Connect this Backend with your Vue Frontend.
-- [Get Started with React SDK](https://samuelreichor.at/libraries/query-api-react): Connect this Backend with your React Frontend.
-- [Get Started with Next SDK](https://samuelreichor.at/libraries/query-api-next): Connect this Backend with your Next Frontend.
+- [Craft Query API](https://samuelreichor.at/libraries/craft-query-api): Learn how to use the Craft Query API.
+- [React SDK](https://samuelreichor.at/libraries/query-api-react): Learn how to use the `@query-api/react` SDK.
+- [Next SDK](https://samuelreichor.at/libraries/query-api-next): Learn how to use the `@query-api/next` SDK.
+- [Nuxt SDK](https://samuelreichor.at/libraries/nuxt-craftcms): Learn how to use the `@query-api/nuxt` SDK.
+- [Vue SDK](https://samuelreichor.at/libraries/vue-craftcms): Learn how to use the `@query-api/vue` SDK.
 
 
 ## Support
