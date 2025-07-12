@@ -27,10 +27,10 @@ fieldLayouts:
         name: Content
         uid: 512fd508-195c-4ebd-a2cf-bee822943006
         userCondition: null
-handle: blockImage
+handle: image
 hasTitleField: false
 icon: image-landscape
-name: 'Block: Image'
+name: Image
 showSlugField: false
 showStatusField: true
 slugTranslationKeyFormat: null

@@ -27,10 +27,10 @@ fieldLayouts:
         name: Content
         uid: 02643d21-9383-43cf-8fb4-8fc73e80506b
         userCondition: null
-handle: blockText
+handle: text
 hasTitleField: false
 icon: text
-name: 'Block: Text'
+name: Text
 showSlugField: false
 showStatusField: true
 slugTranslationKeyFormat: null

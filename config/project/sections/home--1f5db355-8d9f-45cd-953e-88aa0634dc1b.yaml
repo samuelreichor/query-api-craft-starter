@@ -2,7 +2,7 @@ defaultPlacement: end
 enableVersioning: true
 entryTypes:
   -
-    uid: bc8e1a2f-5837-413f-b3e4-dbe2a568ab75 # Page: Home
+    uid: bc8e1a2f-5837-413f-b3e4-dbe2a568ab75 # home
 handle: home
 maxAuthors: 1
 name: Home

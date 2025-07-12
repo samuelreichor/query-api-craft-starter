@@ -2,7 +2,7 @@ defaultPlacement: end
 enableVersioning: true
 entryTypes:
   -
-    uid: c68b11e2-a09e-4cd4-b2a3-f142402b7aeb # Page: News
+    uid: c68b11e2-a09e-4cd4-b2a3-f142402b7aeb # News
 handle: news
 maxAuthors: 1
 name: News

@@ -12,7 +12,7 @@ settings:
       __assoc__:
         -
           - uid
-          - cfc59921-481b-4e81-9445-cd5f2a3f68e4 # Block: Headline
+          - cfc59921-481b-4e81-9445-cd5f2a3f68e4 # Headline
         -
           - group
           - General
@@ -20,7 +20,7 @@ settings:
       __assoc__:
         -
           - uid
-          - 5cd79487-d897-4356-b811-6c7578b0e103 # Block: Text
+          - 5cd79487-d897-4356-b811-6c7578b0e103 # Text
         -
           - group
           - General
@@ -28,7 +28,7 @@ settings:
       __assoc__:
         -
           - uid
-          - 66e0bd20-6fc2-44da-8f4c-d036ac1156c7 # Block: Image and Text
+          - 66e0bd20-6fc2-44da-8f4c-d036ac1156c7 # Image and Text
         -
           - group
           - General
@@ -36,7 +36,7 @@ settings:
       __assoc__:
         -
           - uid
-          - c9b9fafc-2767-4b98-a078-bb250cccac09 # Block: Image
+          - c9b9fafc-2767-4b98-a078-bb250cccac09 # Image
         -
           - group
           - General

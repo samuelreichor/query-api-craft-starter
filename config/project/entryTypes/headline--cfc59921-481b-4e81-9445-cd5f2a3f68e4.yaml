@@ -57,10 +57,10 @@ fieldLayouts:
         name: Content
         uid: 77e62c77-2070-47fe-8cd5-0e4816faf2ec
         userCondition: null
-handle: blockHeadline
+handle: headline
 hasTitleField: true
 icon: h1
-name: 'Block: Headline'
+name: Headline
 showSlugField: false
 showStatusField: true
 slugTranslationKeyFormat: null

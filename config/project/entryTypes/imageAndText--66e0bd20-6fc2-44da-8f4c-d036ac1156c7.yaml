@@ -91,10 +91,10 @@ fieldLayouts:
         name: Content
         uid: 9ae992f8-80f7-48ae-9477-7c3c5638ea0b
         userCondition: null
-handle: blockImageAndText
+handle: imageAndText
 hasTitleField: true
 icon: image-polaroid
-name: 'Block: Image and Text'
+name: 'Image and Text'
 showSlugField: true
 showStatusField: true
 slugTranslationKeyFormat: null

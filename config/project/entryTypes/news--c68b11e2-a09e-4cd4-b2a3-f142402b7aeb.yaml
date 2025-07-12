@@ -145,10 +145,10 @@ fieldLayouts:
         name: Settings
         uid: 7b8ade3d-87b8-4465-9de9-6a78f33212b2
         userCondition: null
-handle: pageNews
+handle: news
 hasTitleField: true
 icon: newspaper
-name: 'Page: News'
+name: News
 showSlugField: true
 showStatusField: true
 slugTranslationKeyFormat: null

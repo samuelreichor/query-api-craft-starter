@@ -122,10 +122,10 @@ fieldLayouts:
         name: Content
         uid: b0a951ab-1e1b-45e9-a478-fa2d5ebd30a8
         userCondition: null
-handle: pagehome
+handle: home
 hasTitleField: true
 icon: house
-name: 'Page: Home'
+name: home
 showSlugField: true
 showStatusField: true
 slugTranslationKeyFormat: null
