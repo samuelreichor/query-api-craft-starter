@@ -1,0 +1,65 @@
+dateModified: 1752316464
+email:
+  fromEmail: admin@gmail.com
+  fromName: 'Query API Starter'
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  images:
+    hasUrls: true
+    name: Images
+    settings:
+      path: '@webroot/assets/images'
+    type: craft\fs\Local
+    url: '@web/assets/images'
+meta:
+  __names__:
+    0e79cff0-95ff-40c8-846b-c24c7d5ab6ff: 'Translatable Plain Text' # Translatable Plain Text
+    1f5db355-8d9f-45cd-953e-88aa0634dc1b: Home # Home
+    4aef88dd-f371-46fa-a04c-0bcf17bb5449: DE # DE
+    5cd79487-d897-4356-b811-6c7578b0e103: 'Block: Text' # Block: Text
+    7f21a5a2-b531-45ab-a43a-621c92cbae46: 'Public Schema' # Public Schema
+    8a720f2b-9ede-4431-8046-c8bb1b8c36a3: EN # EN
+    66e0bd20-6fc2-44da-8f4c-d036ac1156c7: 'Block: Image and Text' # Block: Image and Text
+    69ea2a52-05af-4d3d-be23-110dab8479b0: Images # Images
+    618cfb39-7c17-47d9-8458-6de2797beeb3: News # News
+    1592478f-4b05-481a-bb24-4ce64dd1d8cd: Simple # Simple
+    84441053-475f-4882-8132-350e883d79cf: 'Query API Starter' # Query API Starter
+    a0aeee7d-14a9-44d9-a1a6-07e8518657c0: Image # Image
+    a2332799-5a39-4400-aa5d-5b995cb438a2: 'Content Builder' # Content Builder
+    b31aa533-16c8-44d2-8e9f-ffe300c2e7a6: 'Select Headline Tag' # Select Headline Tag
+    bc8e1a2f-5837-413f-b3e4-dbe2a568ab75: 'Page: Home' # Page: Home
+    bd06d149-c109-4f58-bd08-8dd1e7738654: ES # ES
+    be7f1728-68ac-4727-8934-d320fb35d9ad: 'Public Schema' # Public Schema
+    c9b9fafc-2767-4b98-a078-bb250cccac09: 'Block: Image' # Block: Image
+    c68b11e2-a09e-4cd4-b2a3-f142402b7aeb: 'Page: News' # Page: News
+    cfa3a69d-c697-4f3f-98e5-4a898f71797e: 'Rich Text' # Rich Text
+    cfa8c371-9db2-498f-9691-56bde76890d5: 'Select Author' # Select Author
+    cfc59921-481b-4e81-9445-cd5f2a3f68e4: 'Block: Headline' # Block: Headline
+plugins:
+  ckeditor:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0.0
+  imager-x:
+    edition: lite
+    enabled: true
+    licenseKey: AAIGGL6NP4ZKMBE44CI7NA6N
+    schemaVersion: 4.0.0
+  query-api:
+    edition: standard
+    enabled: true
+    licenseKey: 7G13656MI7Q06WNTCW00ZZ9T
+    schemaVersion: 1.0.0
+system:
+  edition: pro
+  live: true
+  name: 'Query API Starter'
+  schemaVersion: 5.8.0.3
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true

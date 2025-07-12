@@ -1,0 +1,7 @@
+name: 'Public Schema'
+scope:
+  - 'sites.*:read'
+  - 'sections.*:read'
+  - 'usergroups.*:read'
+  - 'volumes.*:read'
+  - 'addresses.*:read'

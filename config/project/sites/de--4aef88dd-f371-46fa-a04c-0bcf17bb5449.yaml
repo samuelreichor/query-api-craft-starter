@@ -1,0 +1,9 @@
+baseUrl: $WEBSITE_URL_DE
+enabled: '1'
+handle: de
+hasUrls: true
+language: de
+name: DE
+primary: false
+siteGroup: 84441053-475f-4882-8132-350e883d79cf # Query API Starter
+sortOrder: 2

@@ -1,0 +1,38 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  -
+    uid: bc8e1a2f-5837-413f-b3e4-dbe2a568ab75 # Page: Home
+handle: home
+maxAuthors: 1
+name: Home
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  4aef88dd-f371-46fa-a04c-0bcf17bb5449: # DE
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: __home__
+  8a720f2b-9ede-4431-8046-c8bb1b8c36a3: # EN
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: __home__
+  bd06d149-c109-4f58-bd08-8dd1e7738654: # ES
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: __home__
+type: single
