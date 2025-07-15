@@ -11,5 +11,4 @@ ddev import-db --file=./databases/starter-db.sql
 
 echo "Launching Craft Control Panel..."
 ddev launch admin
-
-echo "Setup complete!"
+echo "Craft CMS Setup complete!"

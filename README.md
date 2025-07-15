@@ -3,27 +3,30 @@
 This template is a minimal starter for the Query API. 
 It should help to get you started faster with headless development.
 
-## Features
-
 ✅ Optimized images with ImagerX <br>
 ✅ Multilingual with Craft multisites <br>
-✅ Fully runs on ddev <br>
 ✅ Home and News Section with demo content preconfigured <br>
-✅ Great Cats all over the place
 
-## Available Examples
+## Select Example Branch
 
-You can find frontend examples in the branches listed below. The code is located in the `./frontend` folder.
+You can find frontend examples in the branches listed below. The code for the frontend is located in the `./frontend` folder.
 
-- `examples/react-vite`: React JS vite example using the `@query-api/react` SDK.
-- `examples/next`: Next JS example using the `@query-api/next` SDK.
+- [`examples/react-vite`](https://github.com/samuelreichor/query-api-craft-starter/tree/examples/react-vite): React JS vite example using the `@query-api/react` SDK.
+- [`examples/next`](https://github.com/samuelreichor/query-api-craft-starter/tree/examples/next): Next JS example using the `@query-api/next` SDK.
 
-## Requirements
+<br>
+
+> [!NOTE]  
+> If you don't check out a branch from above, the `frontend` folder will be empty.
+
+## Local Development
+### Requirements
 
 - DDEV installed locally
+- Node > 20 installed locally
 - Basic Craft Knowledge
 
-## Setup
+### Setup
 
 Paste this command in your terminal and press enter. This should set everything up for you.
 
@@ -31,17 +34,16 @@ Paste this command in your terminal and press enter. This should set everything 
 ./scripts/setup.sh
 ```
 
+> [!NOTE]   
+> You will find more instructions in the `frontend/README.md`. 
+
 ### Access the control panel:
 
 Use these credentials to access the control panel:
 - User: admin
 - Password: admin123
 
-## Scripts
-
-- `ddev npm run <command>` runs the commands in the frontend folder due to npm workspaces.
-
-## Important Security Notes
+### Important Security Notes
 
 If you use this as a starter for your own application, be sure to flip the access token! The access token used in that 
 demo project is publicly available and not save at all.
