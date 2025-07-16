@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "prettier:fix": "npx prettier . --write --single-quote --trailing-comma es5 --no-semi"
+  },
+  "dependencies": {
+    "@query-api/nuxt": "^0.4.2",
+    "nuxt": "^4.0.0",
+    "vue": "^3.5.17",
+    "vue-router": "^4.5.1"
+  }
+}
