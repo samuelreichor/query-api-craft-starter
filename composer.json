@@ -27,7 +27,7 @@
     "post-root-package-install": [
       "@php -r \"file_exists('.env') || copy('.env.example.dev', '.env');\""
     ],
-    "generate-types": "php craft query-api/typescript/generate-types --output=@root/frontend/src/types/base.ts"
+    "generate-types": "php craft query-api/typescript/generate-types --output=@root/frontend/app/types/base.ts"
   },
   "repositories": [
     {
