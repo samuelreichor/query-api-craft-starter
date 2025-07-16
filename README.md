@@ -13,6 +13,8 @@ You can find frontend examples in the branches listed below. The code for the fr
 
 - [`examples/react-vite`](https://github.com/samuelreichor/query-api-craft-starter/tree/examples/react-vite): React JS vite example using the `@query-api/react` SDK.
 - [`examples/next`](https://github.com/samuelreichor/query-api-craft-starter/tree/examples/next): Next JS example using the `@query-api/next` SDK.
+- [`examples/nuxt`](https://github.com/samuelreichor/query-api-craft-starter/tree/examples/nuxt): Nuxt example using the `@query-api/nuxt` SDK.
+- [`examples/vue`](https://github.com/samuelreichor/query-api-craft-starter/tree/examples/vue): Vue example using the `@query-api/vue` SDK.
 
 <br>
 
