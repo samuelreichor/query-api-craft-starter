@@ -10,10 +10,10 @@
     "prettier:fix": "npx prettier . --write --single-quote --trailing-comma es5 --no-semi"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.3.5",
-    "@query-api/next": "0.4.0"
+    "react": "19.2.1",
+    "react-dom": "19.2.1",
+    "next": "15.4.8",
+    "@query-api/next": "0.8.0"
   },
   "devDependencies": {
     "typescript": "^5",
