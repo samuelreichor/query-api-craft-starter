@@ -3,6 +3,9 @@
 echo "Starting DDEV..."
 ddev start
 
+echo "Setting up root environment variables..."
+ddev exec cp .env.example .env
+
 echo "Installing Composer packages and setting up Craft CMS..."
 ddev composer install && ddev craft setup/keys
 

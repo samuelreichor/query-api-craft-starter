@@ -1,4 +1,4 @@
-dateModified: 1752326680
+dateModified: 1759588505
 email:
   fromEmail: admin@gmail.com
   fromName: 'Query API Starter'
@@ -43,12 +43,12 @@ plugins:
   imager-x:
     edition: lite
     enabled: true
-    licenseKey: AAIGGL6NP4ZKMBE44CI7NA6N
+    licenseKey: 1G5NCM02XAE70VFRZFBIQ026
     schemaVersion: 4.0.0
   query-api:
     edition: standard
     enabled: true
-    licenseKey: 7G13656MI7Q06WNTCW00ZZ9T
+    licenseKey: SQJFRKOTABSG25ZDB8I5LB9C
     schemaVersion: 1.0.0
 system:
   edition: pro
